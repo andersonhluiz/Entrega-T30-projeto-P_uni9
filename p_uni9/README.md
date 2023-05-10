@@ -11,8 +11,9 @@
 
 |     RA     |        NOME       | CURSO |  TURMA |   
 |------------|-------------------|-------|--------|
-| 3021102108 | Anderson Henrique |  ADS  |  T30  |
-| 3021102922 | Rodrigo Lemme     |  ADS  |  T30  |
+| 3021102108 | Anderson Henrique |  ADS  |  T30   |
+| 3021102922 | Rodrigo Lemme     |  ADS  |  T30   |
+| 3021102922 | Leonardo Nunes    |  ADS  |  T30   |
 
 
 
@@ -24,9 +25,23 @@ Primeiramente usar o xampp para simular e entender como está funcionando, e dep
 
 ## Endereço da Aplicação
 
--
+[-](http://quememelhor.epizy.com/)
+
+
+## Hospedagem
+
+Infinity free
 
 ## Outras Observações
 
 - Marcamos uma Reunião Sabado 20/04 para todos os membros do grupo trabalharem em grupo resolver as questões dos projetos.
-- 02/05 - Subi os Arquivos no GitHub
+- 09/05 - Subi os Arquivos no GitHub
+
+
+## Simular no navegador
+
+1) Baixar xamp ( depois abra o xamp e de star no apache e no mysql, clique no admin)
+2) Abra o phpmyadmin depois crie uma tabela chamada "eleicao" , depois importe dentro do phpmyadmin o arquivo uni9.sql
+3) Apos isso clique em "inserir", coloque no campo nome: "Messi" , e no outro campo nome: "CR7" ,execute e depois clique em "visualizar" no topo da pagina, e após isso na coluna imagem ao lado do nome do jogador coloque o nome do arquivo "... .png"
+4) Depois va no navegador e coloque http://localhost/P_uni9/index.php 
+5) Pronto pode visualizar o site
