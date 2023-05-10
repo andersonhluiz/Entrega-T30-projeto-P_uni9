@@ -25,7 +25,7 @@ Primeiramente usar o xampp para simular e entender como está funcionando, e dep
 
 ## Endereço da Aplicação
 
-[-](http://quememelhor.epizy.com/)
+[-](http://quememelhor.epizy.com/)http://quememelhor.epizy.com/
 
 
 ## Hospedagem
