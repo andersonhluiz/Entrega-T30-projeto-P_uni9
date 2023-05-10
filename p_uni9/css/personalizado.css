@@ -1,0 +1,14 @@
+.thumbnail{
+	position:relative;
+	overflow:hidden;
+	
+	
+}
+.caption{
+	position:absolute;
+	
+}
+.descricao{
+	text-align: center;
+  }
+  
