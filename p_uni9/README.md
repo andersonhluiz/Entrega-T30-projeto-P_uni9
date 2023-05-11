@@ -2,7 +2,9 @@
 
 ## Dados da Turma
 
-**Dias da Semana**: Segunda-Feira(Pré-aula)
+**Disciplina: Projeto prático em sistemas
+
+**Dias da Semana**: Sexta-feira(Pré-aula)
 
 **Período**: Noturno 
 
@@ -13,7 +15,7 @@
 |------------|-------------------|-------|--------|
 | 3021102108 | Anderson Henrique |  ADS  |  T30   |
 | 3021102922 | Rodrigo Lemme     |  ADS  |  T30   |
-| 3021102922 | Leonardo Nunes    |  ADS  |  T30   |
+| 3021105916 | Leonardo Nunes    |  ADS  |  T30   |
 
 
 
