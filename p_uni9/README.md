@@ -11,11 +11,11 @@
 
 ## Integrantes
 
-|     RA     |        NOME       | CURSO |  TURMA |   
-|------------|-------------------|-------|--------|
-| 3021102108 | Anderson Henrique |  ADS  |  T30   |
-| 3021102922 | Rodrigo Lemme     |  ADS  |  T30   |
-| 3021105916 | Leonardo Nunes    |  ADS  |  T30   |
+|     RA     |        NOME                  | CURSO |  TURMA |   
+|------------|------------------------------|-------|--------|
+| 3021102108 | Anderson Henrique Luiz       |  ADS  |  T30   |
+| 3022201228 | Rodrigo Mastorillo Lemme     |  ADS  |  T30   |
+| 3021105916 | Leonardo Moreno Nunes        |  ADS  |  T30   |
 
 
 
@@ -38,7 +38,7 @@ Infinity free
 
 - Marcamos uma Reunião Sabado 20/04 para todos os membros do grupo trabalharem em grupo resolver as questões dos projetos.
 - 09/05 - Subi os Arquivos no GitHub
-
+- Entrega dia: 05/06/2023
 
 ## Simular no navegador
 
